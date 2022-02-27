@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of two letters sent from Rome, the one to Conny mac Guire, Lord of Iniskillin, now present in the tower, or to his brother Roury mac Guire in Ireland; the other to Phelim Roe O Neal, prisoner with the Lord Conny mac Guire. The one written by Francis mac Guire, cosin to my Lord Iniskillin: the other from Bonaventura O Conny, to Phelim Roe O Neal. Brought from Rome by Colonell Crely, who was apprehended at Dublin, and afterward executed, the 26. of Iune. Sent from Dublin within an inclosed letter by Master William Scot, to his beloved sonne William Scot now resident in London.</title>
+            <author>Maguire, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88942</idno>
+            <idno type="STC">Wing M127</idno>
+            <idno type="STC">Thomason E153_6</idno>
+            <idno type="STC">ESTC R20717</idno>
+            <idno type="EEBO-CITATION">99866239</idno>
+            <idno type="PROQUEST">99866239</idno>
+            <idno type="VID">156795</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88942)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156795)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E153[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of two letters sent from Rome, the one to Conny mac Guire, Lord of Iniskillin, now present in the tower, or to his brother Roury mac Guire in Ireland; the other to Phelim Roe O Neal, prisoner with the Lord Conny mac Guire. The one written by Francis mac Guire, cosin to my Lord Iniskillin: the other from Bonaventura O Conny, to Phelim Roe O Neal. Brought from Rome by Colonell Crely, who was apprehended at Dublin, and afterward executed, the 26. of Iune. Sent from Dublin within an inclosed letter by Master William Scot, to his beloved sonne William Scot now resident in London.</title>
+                  <author>Maguire, Francis.</author>
+                  <author>O'Connor, Bonaventura.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Marmaduke Boat,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. July 2.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter by Scot not included.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crely, --  Colonel, d. 1642.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156795:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 119 -->
+            <p>THE Copy of two Letters ſent FROM ROME, The one to <hi>Conny mac Guire,</hi> Lord of <hi>Jniskillin,</hi> now preſent in the Tower, or to his Brother <hi>Roury mac Guire</hi> in <hi>Ireland;</hi> The other to <hi>Phelim Roe O Neal,</hi> priſoner with the Lord <hi>Conny mac Guire.</hi>
+            </p>
+            <p>The one written by <hi>Francis mac Guire,</hi> Coſin to my Lord <hi>Jniskillin:</hi> The other from <hi>Bonoventura O Conny,</hi> to <hi>Phelim Roe O Neal.</hi>
+            </p>
+            <p>Brought from <hi>Rome</hi> by Colonell <hi>Crely,</hi> who was apprehended at <hi>Dublin,</hi> and after<g ref="char:EOLhyphen"/>ward executed, the 26. of <hi>Iune.</hi>
+            </p>
+            <p>Sent from <hi>Dublin</hi> within an incloſed Letter by Maſter <hi>William Scot,</hi> to his beloved Sonne <hi>William Scot</hi> now Reſident in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Marmaduke Boat.</hi> 1642. July 2.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156795:2"/>
+            <!-- PDF PAGE 120 -->
+            <pb n="3" facs="tcp:156795:2"/>
+            <!-- PDF PAGE 120 -->
+            <head>DELIVER THIS TO CONNOR MAC GVIRE, Lord of <hi>Iniskellen;</hi> or to his Brother <hi>Roury mac Guire</hi> in <hi>IRELAND.</hi>
+            </head>
+            <opener>
+               <salute>My honoured Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg> Thouſand Commendations unto you, to <hi>Bryan, Roury,</hi> and the reſt. I have heard of your and <hi>Hugh Oges</hi> impriſonment, and truly I never heard worſe News in my life, had not ſome men much wiſer then my ſelf, comforted me; in regard you eſteem that great good, and no hurt will redound unto you and your whole Nation, from theſe your troubles. Truly my Lord, if you were dead (which God forbid) through that attempt, you purcha<g ref="char:EOLhyphen"/>ſed unto your former honours a glorious and everlaſting name. The Pope, and the Cardinals his Nephews heard of your caſe, and how valorouſly <hi>Phelim, Roury,</hi> and other Gentlemen their aſſiſtants have behaved themſelves, and rejoyced greatly thereat; ſo that I doubt not but he will ſend help unto you, if it be demanded, as becometh you. Therefore Father <hi>Bonaventure O Conny,</hi> brother unto <hi>Encas O Conny</hi> who is Lecturer here, thought fit to write to your Gene<g ref="char:EOLhyphen"/>rall <hi>Phelim</hi> touching this matter; and I adviſe you to ſee wiſely un<g ref="char:EOLhyphen"/>to your reaſons which he writ, and unto the good which will ariſe from them in time, and that you and <hi>Phelim</hi> do all things accor<g ref="char:EOLhyphen"/>ding to his directions, and the rather, that the Father <hi>Bonaventure</hi> is a wiſe, prudent, and learned man, and as faithfull and naturall to you as I am: If you be not preſent your ſelf, <hi>Roury</hi> will ſupply your place before all things, I beſeech you for the love of Jeſus Chriſt, that true love be eſtabliſhed amongſt you, and let not the temptati<g ref="char:EOLhyphen"/>on of the Devill or man divert your mind from cheriſhing all poſſi<g ref="char:EOLhyphen"/>ble love and kindneſſe betwixt your ſelf and <hi>Brian Mac-Connaght</hi>
+               <pb n="4" facs="tcp:156795:3"/>
+               <!-- PDF PAGE 121 -->his children, as I doubt not you will <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeavour to draw unto you, not only your own kindred, but alſo all the ancient Roots of the Iriſh where ever diſperſed or diſtant; and all to the glory of God, and the defence of our Religion; and I will be bound that God will be your help, if you beare out but one yeere, beleeve me the Pope and all the Catholipue Kings will be glad that you crave their aſſiſtance, the merciful God grant it, and defend you from the outrage of your Enemies; ſo will he pray night and day, which is</p>
+            <closer>
+               <signed>Your own poor Coſen, FRANCIS MAC GUIRE</signed>
+               <dateline>
+                  <hi>Rome; from Iſſidores Colledge,</hi> 
+                  <date>
+                     <hi>March</hi> 4.</date> 
+                  <hi>after the Roman Accompt.</hi>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>HAd I finiſhed my intended ſtudiet, there is no thing in the world I had rather, then to live with you, and ſerve you untill death; and ſeeing I am not preſent with you, I beſeech you let your coun<g ref="char:EOLhyphen"/>ſell be wiſe and conſcienable men, and ſuch as be acquainted with the Cuſtomes of other Nations. I commit you to Gods protection; behave your ſelf nobly for your Religion.</p>
+               <p>Commend me to <hi>Hugh Mac-Mahoune</hi> and his children.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:156795:3"/>
+            <!-- PDF PAGE 121 -->
+            <head>TO MY HONOURED FRIEND, PHELIM ROE O NEIL, with my well-wiſhes, in <hi>IRELAND.</hi>
+            </head>
+            <p>MY Honoured Lord, the Great God help you; I would have written often unto you<g ref="char:punc">▪</g> ſince I received Saint <hi>Francis</hi> his habite, and eſpecially during the ſeven yeeres I lived in <hi>Rome,</hi> were it not that the Lord lately ſlain, and <hi>Hugh Roe</hi> my Brother charged me to keep no correſpon<g ref="char:EOLhyphen"/>dence with you or any other freind there, to avoid ſuſpition or dam<g ref="char:EOLhyphen"/>age to happen unto you thereby, now if that which is written unto us, and which we heare from all parts be true, (to wit,) that the thing which we long deſired, and whereof we hoped in God, and in you untill now, be come to paſſe, the time of writing and keep<g ref="char:EOLhyphen"/>ing correſpondence with you, touching ſuch matters as are beſt and moſt needfull unto you in the preſent opportunity is now at hand; wherefore I could not chooſe above all things but write theſe few lines unto you in my Mother tongue as being moſt ſafe. The holy Father and his two Nephews, Cardonall <hi>Anthony Barbarimus</hi> Protector of <hi>Ireland,</hi> and Cardinall <hi>Francis Barbarimus,</hi> who hath the power here in all ſuch matters as concerne the Pope, have heard of the war and confederation which you make for your Religion and Libertie; and truely I cannot expreſſe unto you the greatneſſe of their joy thereat, in ſo much that if they had received Letters, or if you did ſend an Agent with your will and deſignes, you ſhould want no helpe, therefore I would have you to ſend ſome able man hither weth a Declaration of the grievances in forme of Law. My Brother <hi>Owin Roe</hi> the Prieſt is in <hi>Spaine,</hi> except he be gone into <hi>Ireland</hi> by this, he hath finiſhed very well his ſtudy of Philoſophy, Theologie, and Law, and is well ſpoken in the Latin, Spaniſh, and Dutch, he is I know well, ſober, diſcret, learned, and bred accor<g ref="char:EOLhyphen"/>ding to the manner of ſeverall Nations, to treat with any Prince of what matter ſoever; further more he is as you know faithfull and na<g ref="char:EOLhyphen"/>turall
+<pb n="6" facs="tcp:156795:4"/>
+               <!-- PDF PAGE 122 -->to the other Lords your Confederats; which qualities are moſt requiſite in a man to be imployed here, or in any place elſe upon the like occaſion. I proteſt unto you before God, that I commend him not in that he is my Brother, but that I am not acquainted with any man of more ability to be imployed in that ſervice here then he, ſince <hi>Hugh Roe</hi> my Brother dyed, through the great miſery and pains he hath taken in his laſt travels. I am teaching here theſe ſix yeer of the Colledge of the Iriſh, and all that time imployed about the affairs of the late ſlain Lord. I might do you ſome ſervice, if I had received any intelligence from you; and ſome help to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m whom you intend to ſend hither; there is nothing I h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t then come where you are, although I am ſetled here to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e contentment, do you uſe me and the reſt of my function after ſuch manner as ſhall ſeeme beſt unto you for your own ſervice: Father <hi>Arthur Mac-Geny</hi> is in <hi>Madrid,</hi> and many more who would glad<g ref="char:EOLhyphen"/>ly performe any ſervice, wherein you would be pleaſed to imploy them, Father <hi>Francis Mac Genis</hi> is in <hi>Germany,</hi> ſo likewiſe is Fa<g ref="char:EOLhyphen"/>ther <hi>Francis ô Farrall,</hi> who is very naturall towards you, and very intimate with the Emperor who now may give you good help, ſince you have eaſed him of the trouble of the Palatinate whom only he feared; there is in <hi>Germany</hi> alſo a Prieſt from the Countie of <hi>Ty<g ref="char:EOLhyphen"/>rone, Edmond Mac Gray</hi> a learned man, having of late comenced Doctor in <hi>France;</hi> there is a Divinity Profeſſor <hi>Patrick O Connor,</hi> deſcended from the <hi>O Connors</hi> in <hi>Leinster,</hi> who hath done great ſervice to the late deceaſed Lord; he is of nature loving and conſtant and bold as is his Coſin <hi>Brandon ô Connor,</hi> who I doubt not will favour you. <hi>Michael ô Gormly</hi> is in the Low-Countries, <hi>Gaurdian</hi> of <hi>Lovaine,</hi> and many other of the like ſort; See your ſelf what is beſt to be done with <hi>Owin ô Neal,</hi> who is in <hi>Flanders,</hi> and with <hi>Con mac Cormock,</hi> who is Serjeant Major in <hi>Spain</hi> but more is the pitty a man of no great policy or wiſedome. I would that all the old trained Souldiers were there, I will write to my Brother <hi>Murtaugh ô Conney,</hi> who was Enſigne to the late deceaſed Lord, and is now Captain; and to the reſt of the Nobility of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> that they repair to you without delay: You may write to the King of <hi>Spain</hi> amongſt other things, that he give them leave to come unto you; I doe not know well, what will the Earl of <hi>Terconell</hi> do up<g ref="char:EOLhyphen"/>on this occaſion, his Regiment is disbanded, and he himſelf is gone
+<pb n="7" facs="tcp:156795:4"/>
+               <!-- PDF PAGE 122 -->to the Court to <hi>Madrid.</hi> I fear much, That if he ſhould goe into <hi>Ireland,</hi> he would breed more then trouble good. Noble Sir, fear God above all things, in following wiſely the fortune which God offers you; let love and unanimity be among your ſelves, and ſhew great kindneſſe to the old Iriſh of <hi>Leinſter.</hi> Obliege all men unto your ſelf as neer as you can; beware of the trick of the <hi>Munſter</hi> men, who at this hour ſhew no candid dealings towards you in <hi>Rome,</hi> and will do worſe as you ſhall ſee hereafter, unleſſe you prevent it ſpeedily by your Agent; for they aſcribe unto themſelves without any ground, the praiſe and glory of all your Heroicall deeds, as you may underſtand by <hi>Enis</hi> who is now with you, be ſure to have a great heart, and make ſome head among you; but be ſure to reſerve the Crown for <hi>Conus</hi> ſide, <hi>viz. Vlſter;</hi> Remember the old ſlavery wherein you lived long, and the generall deſtruction to come upon you, except you prevail; you ſhall prevail if you joyn your forces as you ought, God ſend it; I would adviſe every chief Officer a<g ref="char:EOLhyphen"/>mong you, to have a Secretary a long with him, to take a Diurnall of every paſſage, and of the overthrows which your enemies re<g ref="char:EOLhyphen"/>ceive, which ſhall redound much to your glory; Waſte not the Country for fear of famine, I will write according as I hear from you; we would ſend unto you a Bull after the forme of the Bull, which <hi>Hugh mac Baron</hi> got, if we had received your Letters; The Church will do wiſely if they commit the election of the Prelates there to the Nobility, and give them authority in this point.</p>
+            <closer>
+               <signed>Your faithfull ſervant
+<hi>Bonoventura ô Conny.</hi>
+               </signed>
+               <dateline>
+                  <hi>Rome,</hi> From <hi>Iſidores</hi> Colledge, <date>March 4. 1642.</date> After the <hi>Roman</hi> account.</dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
